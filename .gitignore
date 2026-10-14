@@ -1,0 +1,36 @@
+# ==========================================
+# Intel Quartus Prime
+# ==========================================
+/db/
+/incremental_db/
+/output_files/
+.quartus/
+*.qws
+*.sof
+*.pof
+*.jic
+*.rpt
+*.summary
+*.pin
+*.sld
+*.done
+*.bak
+bp.chg
+
+# ==========================================
+# QuestaSim / ModelSim
+# ==========================================
+work/
+transcript
+*.wlf
+*.vstf
+wlf*
+modelsim.ini
+
+# ==========================================
+# General OS & Editor Junk
+# ==========================================
+.DS_Store
+Thumbs.db
+*~
+*.log
