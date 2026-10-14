@@ -1,0 +1,9 @@
+Analysis & Synthesis Status : Successful - Sat Oct 10 16:08:49 2026
+Quartus Prime Version : 25.1std.0 Build 1129 10/21/2025 SC Lite Edition
+Revision Name : demux_1_to_n
+Top-level Entity Name : demux_1_to_n
+Family : MAX V
+Total logic elements : 4
+Total pins : 7
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )
