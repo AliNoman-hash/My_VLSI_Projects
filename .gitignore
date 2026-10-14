@@ -1,10 +1,10 @@
-# ==========================================
-# Intel Quartus Prime
-# ==========================================
+# Quartus temporary directories and outputs
 /db/
 /incremental_db/
 /output_files/
-.quartus/
+**/db/
+**/incremental_db/
+**/output_files/
 *.qws
 *.sof
 *.pof
@@ -15,22 +15,18 @@
 *.sld
 *.done
 *.bak
-bp.chg
 
-# ==========================================
-# QuestaSim / ModelSim
-# ==========================================
+# QuestaSim / ModelSim temporary artifacts
 work/
+rtl_work/
 transcript
+msim_transcript
 *.wlf
 *.vstf
 wlf*
 modelsim.ini
 
-# ==========================================
-# General OS & Editor Junk
-# ==========================================
+# OS & Editor files
 .DS_Store
 Thumbs.db
-*~
 *.log
