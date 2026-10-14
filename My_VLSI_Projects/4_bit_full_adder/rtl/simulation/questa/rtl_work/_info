@@ -1,0 +1,101 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2025.2 2025.05, May 31 2025
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/alino/OneDrive/Desktop/ALI/VLSI_Projects/4_bit_full_adder/rtl/simulation/questa
+T_opt
+!i145 1
+!i144 0
+!s110 1791624279
+VO:CIPlnob8V7iH7OOj2CI0
+04 7 4 work tb_rca4 fast 0
+=1-58112284b403-6aca0455-1f5-5abc
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U6 
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L maxv_ver -L rtl_work -L work +acc
+tCvgOpt 0 defaultOptions 1107585188
+n@_opt
+OL;O;2025.2;82
+vone_bit_fa_behavior
+Z2 2C:/Users/alino/OneDrive/Desktop/ALI/VLSI_Projects/4_bit_full_adder/rtl/4_bit_FA.v
+Z3 !s110 1791624276
+!i10b 1
+!s100 XjiO2W7PcWoS?]e@WA3`03
+In6>]m4]P1gA;0IoZi^zQY1
+R1
+Z4 w1791623861
+Z5 8C:/Users/alino/OneDrive/Desktop/ALI/VLSI_Projects/4_bit_full_adder/rtl/4_bit_FA.v
+Z6 FC:/Users/alino/OneDrive/Desktop/ALI/VLSI_Projects/4_bit_full_adder/rtl/4_bit_FA.v
+!i122 0
+L0 1 12
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2025.2;82
+r1
+!s85 0
+31
+Z9 !s108 1791624276.000000
+Z10 !s107 C:/Users/alino/OneDrive/Desktop/ALI/VLSI_Projects/4_bit_full_adder/rtl/4_bit_FA.v|
+Z11 !s90 -reportprogress|300|-work|work|+incdir+C:/Users/alino/OneDrive/Desktop/ALI/VLSI_Projects/4_bit_full_adder/rtl|C:/Users/alino/OneDrive/Desktop/ALI/VLSI_Projects/4_bit_full_adder/rtl/4_bit_FA.v|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z13 !s92 -work work +incdir+C:/Users/alino/OneDrive/Desktop/ALI/VLSI_Projects/4_bit_full_adder/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z14 tCvgOpt 0 defaultOptions 1085333592
+vrca4
+R2
+R3
+!i10b 1
+!s100 h9hkb:hRIVY[<NGfKaKmY2
+ILBa^g4baKe4VLPA3X@M6W3
+R1
+R4
+R5
+R6
+!i122 0
+L0 14 45
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vtb_rca4
+2C:/Users/alino/OneDrive/Desktop/ALI/VLSI_Projects/4_bit_full_adder/rtl/../tb/4_bit_FA_tb.v
+R3
+!i10b 1
+!s100 ]ai60;nZ;Aije=oSD>L8I0
+IcA1ZXibBlLM=`fPNzXZk=0
+R1
+w1791624059
+8C:/Users/alino/OneDrive/Desktop/ALI/VLSI_Projects/4_bit_full_adder/rtl/../tb/4_bit_FA_tb.v
+FC:/Users/alino/OneDrive/Desktop/ALI/VLSI_Projects/4_bit_full_adder/rtl/../tb/4_bit_FA_tb.v
+!i122 1
+L0 3 35
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/alino/OneDrive/Desktop/ALI/VLSI_Projects/4_bit_full_adder/rtl/../tb/4_bit_FA_tb.v|
+!s90 -reportprogress|300|-work|work|+incdir+C:/Users/alino/OneDrive/Desktop/ALI/VLSI_Projects/4_bit_full_adder/rtl/../tb|C:/Users/alino/OneDrive/Desktop/ALI/VLSI_Projects/4_bit_full_adder/rtl/../tb/4_bit_FA_tb.v|
+!i113 0
+R12
+!s92 -work work +incdir+C:/Users/alino/OneDrive/Desktop/ALI/VLSI_Projects/4_bit_full_adder/rtl/../tb -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R14

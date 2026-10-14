@@ -1,0 +1,11 @@
+Fitter Status : Successful - Sat Oct 10 14:51:32 2026
+Quartus Prime Version : 25.1std.0 Build 1129 10/21/2025 SC Lite Edition
+Revision Name : 4_bit_FA
+Top-level Entity Name : rca4
+Family : MAX V
+Device : 5M40ZE64C4
+Timing Models : Final
+Total logic elements : 8 / 40 ( 20 % )
+Total pins : 14 / 54 ( 26 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )
